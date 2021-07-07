@@ -1,0 +1,8 @@
+.link-card {
+  outline: none;
+  color: black;
+}
+
+.link-card:hover {
+  color: black;
+}
